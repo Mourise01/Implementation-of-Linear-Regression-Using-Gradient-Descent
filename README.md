@@ -1,5 +1,5 @@
-# Developed by: Naveen Kumar.T
-# RegisterNumber: 212223220067
+# Developed by: Mourise jane
+# RegisterNumber: 212222230085
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
   
 ## AIM:
